@@ -263,6 +263,7 @@ background-color: #f2f2f2;
   width: 877px;
   height: 877px;
   position: absolute;
+  top:0;
   right: -210px;
   z-index:0;
 }
