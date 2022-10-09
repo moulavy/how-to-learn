@@ -1,5 +1,5 @@
 .logo_place_header{
   position: absolute;
-  padding-top: 30px;
-  z-index:2;                      /*проверить----------------------*/
+  top: 30px;
+  z-index:2;
 }
